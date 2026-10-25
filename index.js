@@ -46,7 +46,7 @@ app.get("/",(req,res)=>{
         res.send("error in db")
       }
       let count = results[0].count;
-      console.log(results)
+      console.log(results);
       res.render("home.ejs",{count});
       
 }
