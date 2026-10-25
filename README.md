@@ -32,9 +32,6 @@ This application demonstrates how a web application communicates with a SQL data
 - Git
 
 
-## Environment Variables
-
-Configure `DB_HOST`, `DB_USER`, `DB_PASSWORD`, and `DB_NAME` in your local `.env` file. Never commit actual credentials.
 
 ## What I Learned
 
