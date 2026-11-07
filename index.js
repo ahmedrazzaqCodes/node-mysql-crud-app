@@ -70,7 +70,7 @@ app.get("/users/:id/edit",(req,res)=>{
   connection.query(q,(err,results)=>{
       if (err) {
         console.log(err);
-        res.send("error in db")
+        res.send("error in db");
       }
       console.log(results);
       let user = results[0];
