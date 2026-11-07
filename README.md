@@ -2,7 +2,7 @@
 
 A beginner-friendly backend project built while learning Node.js, Express.js, EJS, and MySQL.
 
-## About the Project
+## About my Project
 
 This application demonstrates how a web application communicates with a SQL database to display and manage user records.
 
@@ -30,8 +30,6 @@ This application demonstrates how a web application communicates with a SQL data
 - Node.js and npm
 - MySQL Server
 - Git
-
-
 
 ## What I Learned
 
